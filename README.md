@@ -1,2 +1,2 @@
 # xtpro
-THMT
+copyright © 2020 by xtpro201
